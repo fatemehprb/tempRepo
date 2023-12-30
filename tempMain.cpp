@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//new comment
+//new comment 1
 
 int main(void) {
 	int T[8][8];
